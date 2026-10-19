@@ -1,0 +1,8 @@
+{
+  "name": "AI 智慧冰箱與食譜推薦平台",
+  "description": "拍照自動辨識冰箱食材並框選標註、客製化設備限制與飲食偏好極速出菜、對話動態換菜與烹飪完成一鍵扣除庫存",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
